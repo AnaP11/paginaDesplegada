@@ -16,6 +16,6 @@ Hoy conoceremos al **árbol de cerezo** (Sakura en japonés):
 5. Los árboles de cerezo también son representativos de la ciudad de Washington en Estados Unidos(¡aquí es un delito federal romper una de sus flores!).
 6. Los samuráis pensaban que la flor del cerezo simbolizaba la sangre, y al mismo tiempo también lo frágil y efímera que es la vida.
 
-![image](https://user-images.githubusercontent.com/91479884/193460272-77ce77ab-fc2d-41bd-a3dc-fd48d17f0c24.png) {: .mx-auto.d-block :}
+![image](https://user-images.githubusercontent.com/91479884/193460272-77ce77ab-fc2d-41bd-a3dc-fd48d17f0c24.png)
 
 Para conocer más sobre este bello árbol, [haz clic aquí](https://es.wikipedia.org/wiki/Cerasus) !

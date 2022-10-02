@@ -2,8 +2,8 @@
 layout: post
 title: A un naranjo y un limonero
 subtitle: Poema de Antonio Machado
-cover-img: /assets/img/naranjo.jpeg
-thumbnail-img: /assets/img/limonero.jpeg
+cover-img: /assets/img/naranjo.jpg
+thumbnail-img: /assets/img/limonero.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---

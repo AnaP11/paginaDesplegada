@@ -1,78 +1,21 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: ¿Sabías que el CEREZO...?
+subtitle: Hoy hablaremos del cerezo
+gh-repo: AnaP11/paginaDesplegada
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+Hoy conoceremos al **árbol de cerezo** (Sakura en japonés):
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+1. La flor de cerezo es la flor nacional de Japón.
+2. El árbol de cerezo solo florece durante una semana.
+3. La madera de este árbol es altamente valorada en la tornería y ebanistería por ser pesada, compacta y dura.
+4. Los pétalos de la flor de cerezo, que pueden representar la esperanza y la renovación, son además comestibles.
+5. Los árboles de cerezo también son representativos de la ciudad de Washington en Estados Unidos(¡aquí es un delito federal romper una de sus flores!).
+6. Los samuráis pensaban que la flor del cerezo simbolizaba la sangre, y al mismo tiempo también lo frágil y efímera que es la vida.
 
-**Here is some bold text**
+¡[Cerezo](https://www.hogarmania.com/archivos/201204/cerezo01-668x400x80xX.jpg){: .mx-auto.d-block :}
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Para conocer más sobre este bello árbol, [haz clic aquí](https://es.wikipedia.org/wiki/Cerasus) !
